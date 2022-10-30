@@ -10,5 +10,7 @@
 		rel="stylesheet"
 	/>
 
-	<BaseHeader />
+	<NuxtLayout>
+		<NuxtPage />
+	</NuxtLayout>
 </template>
